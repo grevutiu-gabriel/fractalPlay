@@ -8,10 +8,10 @@ draw fractals.
    If you have any questions or comments, you can contact me at seewalker.120@gmail.com.
 
 ## Example Images
-![Hex](https://raw.github.com/seewalker/fractalPlay/blob/master/images/Hex.png)
-![HexDepthFour](https://raw.github.com/seewalker/fractalPlay/blob/master/images/Hex_Depth_Four.png)
-![Square](https://raw.github.com/seewalker/fractalPlay/blob/master/images/Square.png)
-![Wacky](https://raw.github.com/seewalker/fractalPlay/blob/master/images/Wacky.png)
+![Hex](https://raw.github.com/seewalker/fractalPlay/master/images/Hex.png)
+![HexDepthFour](https://raw.github.com/seewalker/fractalPlay/master/images/Hex_Depth_Four.png)
+![Square](https://raw.github.com/seewalker/fractalPlay/master/images/Square.png)
+![Wacky](https://raw.github.com/seewalker/fractalPlay/master/images/Wacky.png)
 
 ## Dependencies
 Tools necessary for compilation with the Makefile:
