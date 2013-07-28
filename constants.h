@@ -1,0 +1,15 @@
+const double pi = 3.14159;
+const double window_w = 800;
+const double window_h = 600;
+const double palate_size = 10;
+const double button_w = 30;
+const double button_h = 30;
+const double button_spacing = 4 * button_h;
+const double right_end_r = window_w - palate_size;
+const double right_end_l = window_w - palate_size - button_w;
+const double left_end_r = palate_size + button_w;
+const double left_end_l = palate_size;
+const double hex_button_bottom = palate_size;
+const double pent_button_bottom = palate_size + button_spacing;
+const double square_button_bottom = palate_size + 2 * button_spacing;
+const double crazy_button_bottom = palate_size + 3 * button_spacing;
